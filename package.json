@@ -1,0 +1,19 @@
+{
+  "name": "hey-can-i-help-you",
+  "version": "1.0.0",
+  "description": "Bot to help you to set resolution at interactions problems.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malibb/hey-can-i-help-you.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malibb/hey-can-i-help-you/issues"
+  },
+  "homepage": "https://github.com/malibb/hey-can-i-help-you#readme"
+}
